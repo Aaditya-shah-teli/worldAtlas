@@ -1,0 +1,72 @@
+[
+    {
+      "id": 1,
+      "country": "Nepal",
+      "capital": "Kathmandu",
+      "population": 30.03,
+      "fact": "Nepal is home to Mount Everest, the world's highest peak."
+    },
+    {
+      "id": 2,
+      "country": "Japan",
+      "capital": "Tokyo",
+      "population": 125.7,
+      "fact": "Japan has more than 6,800 islands, with four main islands making up 97% of its land area."
+    },
+    {
+      "id": 3,
+      "country": "Brazil",
+      "capital": "Brasília",
+      "population": 214.3,
+      "fact": "Brazil is the only country in South America where Portuguese is the official language."
+    },
+    {
+      "id": 4,
+      "country": "Canada",
+      "capital": "Ottawa",
+      "population": 38.2,
+      "fact": "Canada has the longest coastline of any country in the world."
+    },
+    {
+      "id": 5,
+      "country": "Australia",
+      "capital": "Canberra",
+      "population": 26.1,
+      "fact": "Australia is home to the Great Barrier Reef, the world's largest coral reef system."
+    },
+    {
+      "id": 6,
+      "country": "China",
+      "capital": "Beijing",
+      "population": 1411.8,
+      "fact": "China has the world's largest population and the Great Wall of China, which is over 13,000 miles long."
+    },
+    {
+      "id": 7,
+      "country": "Egypt",
+      "capital": "Cairo",
+      "population": 109.3,
+      "fact": "Egypt is home to the oldest known pyramid, the Pyramid of Djoser, built around 2630 BC."
+    },
+    {
+      "id": 8,
+      "country": "Iceland",
+      "capital": "Reykjavik",
+      "population": 0.37,
+      "fact": "Iceland has no mosquitoes due to its cold climate and volcanic activity."
+    },
+    {
+      "id": 9,
+      "country": "Russia",
+      "capital": "Moscow",
+      "population": 143.4,
+      "fact": "Russia is the largest country in the world by land area, covering more than 11 time zones."
+    },
+    {
+      "id": 10,
+      "country": "South Korea",
+      "capital": "Seoul",
+      "population": 51.7,
+      "fact": "South Korea has the fastest internet speeds in the world and is a leader in technology innovation."
+    }
+  ]
